@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-api-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-eureka-a" charset="UTF-8" />
+  </component>
+</project>
