@@ -39,13 +39,6 @@ feign:
     enabled: true
 
 
-
-
-
-
-
-
-
 hystrix:
   command:
     default:
@@ -53,3 +46,8 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 9000
+
+
+# swagger 扫描包范围
+swagger:
+  base-package: com.itmayiedu.api.order.service.impl

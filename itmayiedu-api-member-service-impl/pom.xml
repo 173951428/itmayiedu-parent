@@ -16,8 +16,17 @@
         <dependency>
             <groupId>com.itmayedu</groupId>
             <artifactId>itmayiedu-api-member-service</artifactId>
-            <!--添加以来的关系的时候。一定要写上版本号，卧槽-->
+            <!--添加依赖的关系的时候。一定要写上版本号，卧槽-->
             <version>1.0-SNAPSHOT</version>
         </dependency>
+
+        <!-- swagger-spring-boot -->
+        <dependency>
+            <groupId>com.spring4all</groupId>
+            <artifactId>swagger-spring-boot-starter</artifactId>
+            <version>1.7.0.RELEASE</version>
+        </dependency>
+
+
     </dependencies>
 </project>

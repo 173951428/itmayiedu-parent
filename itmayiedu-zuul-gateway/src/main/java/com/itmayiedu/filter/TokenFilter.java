@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
  * @Date 2020/2/27 10:57
  * 使用过滤器验证客户端是否有登陆。
  */
-@Component
+// @Component
 public class TokenFilter  extends ZuulFilter {
 
     @Value("${server.port}")

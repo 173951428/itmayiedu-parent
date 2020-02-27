@@ -5,6 +5,9 @@ import com.itmayiedu.api.entity.UserEntity;
 import com.itmayiedu.api.service.IMemberService;
 import com.itmayiedu.base.BaseApiService;
 import com.itmayiedu.base.ResponseBase;
+import io.swagger.annotations.ApiImplicitParam;
+import io.swagger.annotations.ApiOperation;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -38,5 +41,13 @@ public class MemberServiceImpl extends BaseApiService implements IMemberService 
             e.printStackTrace();
         }
         return setResultSuccess("订单接口调用会员服务接口成功。。。。。");
+    }
+
+    @ApiOperation("swagger会员服务接口类测试")
+    @ApiImplicitParam(name="name",value = "用户姓名参数",required = true,dataType = "String")
+    @PostMapping("/getMemberBySwagger")
+    public  String getMemberBySwagger(String  name){
+        System.out.println("name:"+name);
+        return  "会员服务userName:"+name;
     }
 }

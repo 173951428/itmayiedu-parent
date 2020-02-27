@@ -6,7 +6,10 @@ import com.itmayiedu.api.service.IOrderService;
 import com.itmayiedu.base.BaseApiService;
 import com.itmayiedu.base.ResponseBase;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
+import io.swagger.annotations.ApiImplicitParam;
+import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -75,5 +78,14 @@ public class OrderServiceImpl extends BaseApiService implements IOrderService {
         System.out.println("进入加入了hystrix熔断保护机制的订单调用会员的方法");
 
         return memberServiceFeign.getUserInfo();
+    }
+
+
+    @ApiOperation("获取会员相关信息")
+    @ApiImplicitParam(name="name",value = "用户姓名参数",required = true)
+    @PostMapping("/getOrderBySwagger")
+    public  String getOrderBySwagger(String  name){
+        System.out.println("name:"+name);
+        return  "订单服务userName:"+name;
     }
 }
