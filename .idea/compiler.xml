@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="itmayiedu-zuul-gateway" />
         <module name="itmayiedu-api-member-service" />
         <module name="itmayiedu-api-member-service-impl" />
         <module name="itmayiedu-eureka-a" />
@@ -24,6 +25,7 @@
       <module name="itmayiedu-api-order-service-impl" options="-parameters" />
       <module name="itmayiedu-common" options="-parameters" />
       <module name="itmayiedu-eureka-a" options="-parameters" />
+      <module name="itmayiedu-zuul-gateway" options="-parameters" />
     </option>
   </component>
 </project>

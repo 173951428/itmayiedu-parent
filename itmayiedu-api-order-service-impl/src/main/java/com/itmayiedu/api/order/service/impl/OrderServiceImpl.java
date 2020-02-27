@@ -1,6 +1,5 @@
 package com.itmayiedu.api.order.service.impl;
 
-
 import com.itmayiedu.api.entity.UserEntity;
 import com.itmayiedu.api.order.feign.MemberServiceFeign;
 import com.itmayiedu.api.service.IOrderService;
@@ -24,7 +23,7 @@ public class OrderServiceImpl extends BaseApiService implements IOrderService {
     @RequestMapping("/orderToMember")
     public String orderToMember(String name) {
       UserEntity userEntity=  memberServiceFeign.getMember(name);
-        return userEntity==null?"没有找打破用户信息":userEntity.toString();
+        return userEntity==null?"没有找到该用户信息":userEntity.toString();
     }
 
     /**
@@ -65,5 +64,16 @@ public class OrderServiceImpl extends BaseApiService implements IOrderService {
     public ResponseBase orderToMemberUserInfoHystrixFallBlack() {
         System.out.println("进入订单调用会员服务,服务降级的方法");
         return setResultSuccess("返回一个友好提示: 服务降级处理，服务器繁忙，请稍后再试");
+    }
+
+    /**
+     * Hystrix 第二种写法,使用类的方式
+     * @return
+     */
+    @RequestMapping("/orderToMemberUserInfoHystrix_demo02")
+    public ResponseBase orderToMemberUserInfoHystrixDemo02() {
+        System.out.println("进入加入了hystrix熔断保护机制的订单调用会员的方法");
+
+        return memberServiceFeign.getUserInfo();
     }
 }
