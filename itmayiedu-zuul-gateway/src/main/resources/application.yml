@@ -4,7 +4,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8100/eureka/
 server:
-  port: 80
+  port: 7001
 ###网关名称
 spring:
   application:
@@ -32,7 +32,7 @@ hystrix:
       execution:
         isolation:
           thread:
-            timeoutInMilliseconds: 60000
+            timeoutInMilliseconds: 240000
 
 ribbon:
   ReadTimeout: 60000

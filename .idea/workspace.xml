@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e168d1-56cc-45c6-8436-4785f90c993c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/AppMember.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/api/service/impl/MemberServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/AppOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/fallback/MemberServiceFallback.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/feign/MemberServiceFeign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/target/classes/com/itmayiedu/api/entity/UserEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/target/classes/com/itmayiedu/api/service/IMemberService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/target/classes/com/itmayiedu/api/service/IOrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-common/target/classes/com/itmayiedu/base/BaseApiService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-common/target/classes/com/itmayiedu/base/ResponseBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-eureka-a/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-eureka-a/target/classes/com/itmayiedu/AppEureka8100.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/AppGatWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/target/classes/com/itmayiedu/AppGatWay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/target/classes/com/itmayiedu/filter/TokenFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/feign/MemberServiceFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/feign/MemberServiceFeign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,38 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="68" column="57" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/AppGatWay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -98,17 +39,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1118">
+            <state relative-caret-position="400">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="106">
+              <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            <state relative-caret-position="712">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -172,9 +116,9 @@
         <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -192,17 +136,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="itmayiedu-zuul-gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="itmayiedu-zuul-gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -227,6 +161,173 @@
               <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -236,6 +337,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -252,10 +354,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15019158" />
     <property name="project.structure.side.proportion" value="0.46528405" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -287,7 +389,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AppGatWay">
+  <component name="RunManager" selected="Spring Boot.AppGatWay7001">
     <configuration name="AppEureka8100" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="itmayiedu-eureka-a" />
       <extension name="coverage">
@@ -301,7 +403,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppGatWay" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="AppGatWay7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="itmayiedu-zuul-gateway" />
       <extension name="coverage">
         <pattern>
@@ -310,6 +412,17 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmayiedu.AppGatWay" />
+      <option name="VM_PARAMETERS" value=" -Dserver.port=7001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppGatWay7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itmayiedu-zuul-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmayiedu.AppGatWay" />
+      <option name="VM_PARAMETERS" value=" -Dserver.port=7002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -340,11 +453,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AppGatWay7002" />
+      <item itemvalue="Spring Boot.AppEureka8100" />
+      <item itemvalue="Spring Boot.AppGatWay7001" />
+      <item itemvalue="Spring Boot.AppMember" />
+      <item itemvalue="Spring Boot.AppOrder" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.AppGatWay7001" />
         <item itemvalue="Spring Boot.AppOrder" />
         <item itemvalue="Spring Boot.AppMember" />
-        <item itemvalue="Spring Boot.AppGatWay" />
         <item itemvalue="Spring Boot.AppEureka8100" />
       </list>
     </recent_temporary>
@@ -367,18 +487,25 @@
       <workItem from="1582690686400" duration="20018000" />
       <workItem from="1582735955611" duration="927000" />
       <workItem from="1582736909236" duration="2590000" />
-      <workItem from="1582770118631" duration="3762000" />
+      <workItem from="1582770118631" duration="15642000" />
     </task>
+    <task id="LOCAL-00001" summary="新增加网关组件">
+      <created>1582774361932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582774361932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62498000" />
+    <option name="totallyTimeSpent" value="74378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26279318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26279318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -396,11 +523,11 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" weight="0.6021739" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49840087" weight="0.6021739" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32934782" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.4978678" visible="true" weight="0.6021739" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32934782" />
       <window_info anchor="bottom" id="MyBatis Log" order="16" />
       <window_info anchor="bottom" id="Tail" order="17" />
@@ -460,7 +587,8 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="新增加网关组件" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增加网关组件" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
@@ -993,34 +1121,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1118">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="806">
           <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -1034,18 +1138,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="68" column="57" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
+        <state relative-caret-position="712">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1105,7 +1227,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.29576194" />
+                <option value="0.46528405" />
               </list>
             </option>
           </splitter-proportions>

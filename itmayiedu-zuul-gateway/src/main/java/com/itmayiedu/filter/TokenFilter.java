@@ -4,6 +4,7 @@ import com.netflix.zuul.context.RequestContext;
 import com.netflix.zuul.exception.ZuulException;
 import org.apache.commons.lang.StringUtils;
 import org.apache.http.HttpStatus;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import javax.servlet.http.HttpServletRequest;
 
@@ -14,6 +15,9 @@ import javax.servlet.http.HttpServletRequest;
  */
 @Component
 public class TokenFilter  extends ZuulFilter {
+
+    @Value("${server.port}")
+    private String serverPort;
     /**
      * 过滤类型 "pre",表示在请求之前进行执行的方法
      * @return
@@ -69,6 +73,8 @@ public class TokenFilter  extends ZuulFilter {
             requestContext.setResponseBody("token is null");
             requestContext.setResponseStatusCode(HttpStatus.SC_UNAUTHORIZED);// 返回401
         }
+
+        System.out.println("网关服务器发端口号:"+serverPort);
         return null;
     }
 }
