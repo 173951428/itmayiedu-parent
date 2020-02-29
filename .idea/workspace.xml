@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e168d1-56cc-45c6-8436-4785f90c993c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/AppMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/AppMember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/AppMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/AppMember.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/api/service/impl/MemberServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/api/service/impl/MemberServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/AppOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/AppOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-zuul-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/AppGatWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/AppGatWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-zuul-gateway/target/classes/com/itmayiedu/AppGatWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/target/classes/com/itmayiedu/AppGatWay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-zuul-gateway/target/classes/com/itmayiedu/filter/TokenFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-zuul-gateway/target/classes/com/itmayiedu/filter/TokenFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,6 +18,7 @@
     <ignored path="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/" />
     <ignored path="$PROJECT_DIR$/itmayiedu-common/target/" />
     <ignored path="$PROJECT_DIR$/itmayiedu-zuul-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/itmayiedu-xxl-jobs/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +30,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/AppGatWay.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="546">
+              <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" selection-start-line="7" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -61,8 +51,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
+            <state relative-caret-position="260">
               <caret line="22" column="22" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -104,12 +103,10 @@
         <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java" />
         <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/feign/MemberServiceFeign.java" />
         <option value="$PROJECT_DIR$/itmayiedu-eureka-a/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java" />
         <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/pom.xml" />
@@ -117,6 +114,14 @@
         <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java" />
         <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/AppGatWay.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/XxlJobExecutorApplication.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/config/XxlJobConfig.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/mvc/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/service/jobhandler/SampleXxlJob.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -162,6 +167,84 @@
             <path>
               <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-xxl-jobs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-xxl-jobs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-xxl-jobs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-xxl-jobs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
               <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -176,33 +259,6 @@
               <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-zuul-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -216,8 +272,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +285,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -245,15 +301,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xxl.job.executor.core.config" />
+      <recent name="com.xxl.job.executor" />
       <recent name="com.itmayiedu.api.order.feign" />
       <recent name="com.itmayiedu" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\itmayiedu-parent\itmayiedu-xxl-jobs\src\main\resources" />
+      <recent name="D:\itmayiedu-parent\itmayiedu-xxl-jobs\src\main\java\com\xxl\job\executor\core" />
+      <recent name="D:\itmayiedu-parent\itmayiedu-xxl-jobs\src\main\java\com\xxl\job\executor\core\mvc\controller" />
       <recent name="D:\itmayiedu-parent\itmayiedu-zuul-gateway\src\main\resources" />
       <recent name="D:\itmayiedu-parent\itmayiedu-common\src\main\java" />
-      <recent name="D:\itmayiedu-parent\itmayiedu-api-order-service-impl\src\main\resources" />
-      <recent name="D:\itmayiedu-parent\itmayiedu-eureka-a\src\main\resources" />
-      <recent name="D:\itmayiedu-parent\itmayiedu-api-member-service-impl\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,7 +331,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AppGatWay7001">
+  <component name="RunManager" selected="Spring Boot.XxlJobApplication">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="itmayiedu-api-member-service-impl" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="itmayiedu-api-member-service-impl" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AppEureka8100" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="itmayiedu-eureka-a" />
       <extension name="coverage">
@@ -337,15 +442,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XxlJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="itmayiedu-xxl-jobs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxl.job.executor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.AppGatWay7002" />
       <item itemvalue="Spring Boot.AppEureka8100" />
       <item itemvalue="Spring Boot.AppGatWay7001" />
       <item itemvalue="Spring Boot.AppMember" />
       <item itemvalue="Spring Boot.AppOrder" />
+      <item itemvalue="Spring Boot.XxlJobApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.XxlJobApplication" />
         <item itemvalue="Spring Boot.AppOrder" />
         <item itemvalue="Spring Boot.AppMember" />
         <item itemvalue="Spring Boot.AppGatWay7001" />
@@ -399,12 +520,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83239000" />
+    <option name="totallyTimeSpent" value="85318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26545843" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2707889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -422,11 +544,11 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" weight="0.6021739" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" weight="0.6021739" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32934782" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.4978678" visible="true" weight="0.6021739" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49733475" weight="0.6021739" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32934782" />
       <window_info anchor="bottom" id="MyBatis Log" order="16" />
       <window_info anchor="bottom" id="Tail" order="17" />
@@ -961,37 +1083,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="686">
-          <caret line="52" column="52" lean-forward="true" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -1009,20 +1100,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="29" selection-start-line="29" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -1046,20 +1123,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="37" selection-end-line="42" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/AppGatWay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -1069,6 +1132,123 @@
             <element signature="e#464#465#0" expanded="true" />
             <element signature="e#523#524#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/config/XxlJobConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1118">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/mvc/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/service/jobhandler/DemoJobHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/service/jobhandler/SampleXxlJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/XxlJobExecutorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.RELEASE/spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="205" column="41" selection-start-line="205" selection-start-column="41" selection-end-line="205" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1123,7 +1303,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>itmayiedu-zuul-gateway</last-edited>
+          <last-edited>Web|itmayiedu-xxl-jobs</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

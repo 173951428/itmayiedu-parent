@@ -11,6 +11,7 @@
         <module name="itmayiedu-api-member-service" />
         <module name="itmayiedu-api-member-service-impl" />
         <module name="itmayiedu-eureka-a" />
+        <module name="itmayiedu-xxl-jobs" />
         <module name="itmayiedu-api-order-service" />
         <module name="itmayiedu-api-order-service-impl" />
         <module name="itmayiedu-common" />
@@ -25,6 +26,7 @@
       <module name="itmayiedu-api-order-service-impl" options="-parameters" />
       <module name="itmayiedu-common" options="-parameters" />
       <module name="itmayiedu-eureka-a" options="-parameters" />
+      <module name="itmayiedu-xxl-jobs" options="-parameters" />
       <module name="itmayiedu-zuul-gateway" options="-parameters" />
     </option>
   </component>

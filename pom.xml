@@ -27,6 +27,7 @@
 
         <!--网关模块-->
         <module>itmayiedu-zuul-gateway</module>
+        <module>itmayiedu-xxl-jobs</module>
     </modules>
 
 
