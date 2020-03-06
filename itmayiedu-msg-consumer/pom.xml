@@ -9,32 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>itmayiedu-api-order-service-impl</artifactId>
-    <!--加入订单接口的依赖-->
+    <artifactId>itmayiedu-msg-consumer</artifactId>
+
+<!--
     <dependencies>
-        <dependency>
-            <groupId>com.itmayedu</groupId>
-            <artifactId>itmayiedu-api-order-service</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
 
-        <!--引入会员接口项目-->
-      <dependency>
-            <groupId>com.itmayedu</groupId>
-            <artifactId>itmayiedu-api-member-service</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-
-        <!-- swagger-spring-boot -->
-        <dependency>
-            <groupId>com.spring4all</groupId>
-            <artifactId>swagger-spring-boot-starter</artifactId>
-            <version>1.7.0.RELEASE</version>
-        </dependency>
-
-
-
-      <!--  &lt;!&ndash; 添加springboot对amqp的支持,其实也就是RabbitMQ的支持 &ndash;&gt;
+        &lt;!&ndash; 添加springboot对amqp的支持 &ndash;&gt;
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-amqp</artifactId>
@@ -48,8 +28,8 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.49</version>
-        </dependency>-->
+        </dependency>
+    </dependencies>-->
 
 
-</dependencies>
 </project>

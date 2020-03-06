@@ -1,10 +1,10 @@
 ###服务启动端口号
 server:
-  port: 8082
+  port: 8999
 ###服务名称(服务注册到eureka名称)
 spring:
   application:
-    name: itmayiedu-api-order-service-impl
+    name: itmayiedu-msg-consumer
   rabbitmq:
     host: 127.0.0.1
     port: 5672
@@ -55,6 +55,3 @@ hystrix:
             timeoutInMilliseconds: 9000
 
 
-# swagger 扫描包范围
-swagger:
-  base-package: com.itmayiedu.api.order.service.impl

@@ -14,9 +14,13 @@
         <module name="itmayiedu-xxl-jobs" />
         <module name="itmayiedu-api-order-service" />
         <module name="itmayiedu-api-order-service-impl" />
+        <module name="itmayiedu-msg-consumer" />
         <module name="itmayiedu-common" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itmayiedy-xxl-admin" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -26,8 +30,10 @@
       <module name="itmayiedu-api-order-service-impl" options="-parameters" />
       <module name="itmayiedu-common" options="-parameters" />
       <module name="itmayiedu-eureka-a" options="-parameters" />
+      <module name="itmayiedu-msg-consumer" options="-parameters" />
       <module name="itmayiedu-xxl-jobs" options="-parameters" />
       <module name="itmayiedu-zuul-gateway" options="-parameters" />
+      <module name="itmayiedy-xxl-admin" options="-parameters" />
     </option>
   </component>
 </project>

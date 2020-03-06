@@ -9,7 +9,9 @@
     <file url="file://$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/itmayiedu-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/itmayiedu-eureka-a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-msg-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/itmayiedu-xxl-jobs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/itmayiedu-zuul-gateway" charset="UTF-8" />
   </component>
 </project>
