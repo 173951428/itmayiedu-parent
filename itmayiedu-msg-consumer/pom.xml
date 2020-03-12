@@ -11,25 +11,13 @@
 
     <artifactId>itmayiedu-msg-consumer</artifactId>
 
-<!--
-    <dependencies>
 
-        &lt;!&ndash; 添加springboot对amqp的支持 &ndash;&gt;
+    <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-amqp</artifactId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
+            <version>2.0.4.RELEASE</version>
         </dependency>
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-lang3</artifactId>
-        </dependency>
-        &lt;!&ndash;fastjson &ndash;&gt;
-        <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>fastjson</artifactId>
-            <version>1.2.49</version>
-        </dependency>
-    </dependencies>-->
-
+    </dependencies>
 
 </project>

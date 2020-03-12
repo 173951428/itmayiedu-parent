@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GenerateConfig">
+    <option name="packageName" value="" />
+    <option name="passWord" value="" />
+    <option name="path" value="" />
+    <option name="tableNames" value="" />
+    <option name="url" value="" />
+    <option name="userName" value="" />
+  </component>
+</project>
