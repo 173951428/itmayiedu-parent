@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91e168d1-56cc-45c6-8436-4785f90c993c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/AppMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/api/service/impl/MemberServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/producer/FanoutProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/producer/FanoutProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/rabbitmq/FanoutConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/rabbitmq/FanoutConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/producer/FanoutProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/producer/FanoutProducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/rabbitmq/FanoutConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/rabbitmq/FanoutConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-msg-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-msg-consumer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutEmailConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutEmailConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-msg-consumer/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-msg-consumer/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-msg-consumer/target/classes/com/itmayiedu/msg/email/FanoutEmailConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-msg-consumer/target/classes/com/itmayiedu/msg/email/FanoutEmailConsumer.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,86 +41,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/rabbitmq/FanoutConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="20" column="58" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1688#1689#0" expanded="true" />
-                <element signature="e#1738#1739#0" expanded="true" />
-                <element signature="e#964#965#0" expanded="true" />
-                <element signature="e#1020#1021#0" expanded="true" />
-                <element signature="e#2513#2514#0" expanded="true" />
-                <element signature="e#2572#2573#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/controller/ProducerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/producer/FanoutProducer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="653">
-              <caret line="37" column="54" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/MsgController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutEmailConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="57" column="49" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="57" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutDeadEmailConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="25" column="26" lean-forward="true" selection-end-line="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -262,8 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,156 +179,12 @@
               <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="producer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-msg-consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-msg-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-msg-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-msg-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-msg-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-msg-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-msg-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="msg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-msg-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="msg" type="462c0819:PsiDirectoryNode" />
-              <item name="email" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,7 +209,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15019158" />
     <property name="project.structure.side.proportion" value="0.46528405" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -660,6 +424,7 @@
       <workItem from="1583637446378" duration="21534000" />
       <workItem from="1583744006401" duration="2177000" />
       <workItem from="1583746252767" duration="10081000" />
+      <workItem from="1583990310180" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="新增加网关组件">
       <created>1582774361932</created>
@@ -703,17 +468,23 @@
       <option name="project" value="LOCAL" />
       <updated>1583507694075</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="RabbitMQ解决消息幂等性问题">
+      <created>1583990571361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583990571361</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139269000" />
+    <option name="totallyTimeSpent" value="140279000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28784648" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29104477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -735,11 +506,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32934782" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49733475" visible="true" weight="0.40869564" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49733475" weight="0.4078091" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32934782" />
       <window_info anchor="bottom" id="MyBatis Log" order="16" />
       <window_info anchor="bottom" id="Tail" order="17" />
-      <window_info anchor="right" id="Translation Assistant" show_stripe_button="false" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -751,6 +521,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" weight="0.32995737" />
+      <window_info anchor="right" id="Translation Assistant" order="11" show_stripe_button="false" weight="0.32995737" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37899786" />
@@ -800,7 +571,8 @@
     <MESSAGE value="新增加网关组件,同时,修改了若干小bug" />
     <MESSAGE value="新增加xxl-job分布式定时任务组件" />
     <MESSAGE value="新增RabbitMQ消息中间件" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增RabbitMQ消息中间件" />
+    <MESSAGE value="RabbitMQ解决消息幂等性问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="RabbitMQ解决消息幂等性问题" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1220,10 +992,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/MsgController.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/rabbitmq/FanoutConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        <state relative-caret-position="364">
+          <caret line="20" column="58" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1232,7 +1004,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/controller/ProducerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="390">
           <caret line="18" column="27" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1242,8 +1014,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/producer/FanoutProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
+        <state relative-caret-position="780">
           <caret line="37" column="54" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/MsgController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1252,34 +1034,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutEmailConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="57" column="49" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="57" selection-end-column="49" />
+        <state relative-caret-position="1170">
+          <caret line="57" column="49" selection-start-line="54" selection-start-column="9" selection-end-line="57" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/rabbitmq/FanoutConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="20" column="58" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1688#1689#0" expanded="true" />
-            <element signature="e#1738#1739#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#2513#2514#0" expanded="true" />
-            <element signature="e#2572#2573#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutDeadEmailConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="25" column="26" lean-forward="true" selection-end-line="35" />
+        <state relative-caret-position="581">
+          <caret line="29" column="57" lean-forward="true" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
