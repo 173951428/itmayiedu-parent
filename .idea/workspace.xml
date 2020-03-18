@@ -2,29 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e168d1-56cc-45c6-8436-4785f90c993c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/GrepConsole.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GrepConsole.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/dao/UserEntityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/mapper/UserEntityMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/dao/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/mapper/OrderEntityMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-tx-manager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-tx-manager/src/main/java/com/example/txmanager/TxManagerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-tx-manager/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/AppMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/AppMember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/fallback/MemberServiceFallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/fallback/MemberServiceFallback.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/service/IMemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/service/IMemberService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/target/classes/com/itmayiedu/api/service/IMemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/target/classes/com/itmayiedu/api/service/IMemberService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/service/IOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/service/IOrderService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/target/classes/com/itmayiedu/api/service/IOrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/target/classes/com/itmayiedu/api/service/IOrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-msg-consumer/target/classes/com/itmayiedu/msg/email/FantoutDeadEmailConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="56" column="72" selection-start-line="56" selection-start-column="72" selection-end-line="56" selection-end-column="72" />
+            <state relative-caret-position="140">
+              <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
               <folding>
                 <element signature="e#1830#1831#0" expanded="true" />
                 <element signature="e#1880#1881#0" expanded="true" />
@@ -269,304 +263,6 @@
               <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="fallback" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-api-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="txmanager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="itmayiedu-xxl-jobs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -599,7 +295,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15019158" />
     <property name="project.structure.side.proportion" value="0.46528405" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -823,7 +519,7 @@
       <workItem from="1584454373846" duration="970000" />
       <workItem from="1584455355802" duration="973000" />
       <workItem from="1584456338645" duration="3773000" />
-      <workItem from="1584493949718" duration="6628000" />
+      <workItem from="1584493949718" duration="7372000" />
     </task>
     <task id="LOCAL-00001" summary="新增加网关组件">
       <created>1582774361932</created>
@@ -881,11 +577,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583991465780</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="加入LCN分布式事务框架,保证分布式事务完整性">
+      <created>1584501510130</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584501510130</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173997000" />
+    <option name="totallyTimeSpent" value="174741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -979,7 +682,8 @@
     <MESSAGE value="新增加xxl-job分布式定时任务组件" />
     <MESSAGE value="新增RabbitMQ消息中间件" />
     <MESSAGE value="RabbitMQ解决消息幂等性问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="RabbitMQ解决消息幂等性问题" />
+    <MESSAGE value="加入LCN分布式事务框架,保证分布式事务完整性" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入LCN分布式事务框架,保证分布式事务完整性" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1367,8 +1071,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="56" column="72" selection-start-line="56" selection-start-column="72" selection-end-line="56" selection-end-column="72" />
+        <state relative-caret-position="140">
+          <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
           <folding>
             <element signature="e#1830#1831#0" expanded="true" />
             <element signature="e#1880#1881#0" expanded="true" />
