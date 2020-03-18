@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @Author zxp
  * @Date 2020/3/6 20:37
+ * 测试RabbitMQ的类
  */
 @RestController
 public class ProducerController {
@@ -14,6 +15,11 @@ public class ProducerController {
     @Autowired
     private FanoutProducer fanoutProducer;
 
+    /**
+     *
+     * @param queueName  队列的名字
+     * @return
+     */
     @RequestMapping("/sendFanout")
     public String sendFanout(String queueName) {
         fanoutProducer.send(queueName);
