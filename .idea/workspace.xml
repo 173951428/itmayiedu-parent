@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e168d1-56cc-45c6-8436-4785f90c993c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/dao/UserEntityMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/mapper/UserEntityMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/dao/OrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/mapper/OrderEntityMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-tx-manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-tx-manager/src/main/java/com/example/txmanager/TxManagerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itmayiedu-tx-manager/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" afterDir="false" />
@@ -59,7 +49,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
@@ -72,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/mapper/UserEntityMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="390">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -519,7 +509,7 @@
       <workItem from="1584454373846" duration="970000" />
       <workItem from="1584455355802" duration="973000" />
       <workItem from="1584456338645" duration="3773000" />
-      <workItem from="1584493949718" duration="7372000" />
+      <workItem from="1584493949718" duration="7620000" />
     </task>
     <task id="LOCAL-00001" summary="新增加网关组件">
       <created>1582774361932</created>
@@ -584,15 +574,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584501510130</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="加入LCN分布式事务框架,保证分布式事务完整性">
+      <created>1584502323246</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584502323246</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174741000" />
+    <option name="totallyTimeSpent" value="174989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31343284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1027,13 +1023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/mapper/UserEntityMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/service/IMemberService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -1077,6 +1066,13 @@
             <element signature="e#1830#1831#0" expanded="true" />
             <element signature="e#1880#1881#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/mapper/UserEntityMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
