@@ -15,7 +15,7 @@ import java.util.Date;
  * 在集群环境下,利用redis,生成全局ID
  */
 @RestController
-public class OrderIdByRedis {
+public class OrderIdByRedisController {
 
     @Autowired
     private RedisTemplate redisTemplate;

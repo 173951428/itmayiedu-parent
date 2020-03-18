@@ -11,13 +11,13 @@
         <module name="itmayiedu-api-member-service" />
         <module name="itmayiedu-api-member-service-impl" />
         <module name="itmayiedu-eureka-a" />
+        <module name="itmayiedu-common" />
         <module name="itmayiedu-xxl-jobs" />
         <module name="itmayiedu-api-order-service" />
-        <module name="itmayiedutxmanager" />
         <module name="itmayiedu-tx-manager" />
-        <module name="itmayiedu-api-order-service-impl" />
+        <module name="itmayiedutxmanager" />
         <module name="itmayiedu-msg-consumer" />
-        <module name="itmayiedu-common" />
+        <module name="itmayiedu-api-order-service-impl" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

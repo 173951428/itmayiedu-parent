@@ -18,10 +18,12 @@ zuul:
       path: /api-member/**
       ## 会员服务别名, zuul 网关默认整合ribbon 自动实现负载均衡轮询效果
       serviceId: itmayiedu-api-member-service-impl
+      sensitiveHeaders: "*"
     api-b:
       ### 当客户端发送请求127.0.0.1:80//api-order 开头的 都会转发到订单服务
       path: /api-order/**
       serviceId: itmayiedu-api-order-service-impl
+      sensitiveHeaders: "*"
   host:
     socket-timeout-millis: 12000
     connect-timeout-millis: 12000
