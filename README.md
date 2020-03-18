@@ -25,4 +25,4 @@ itmayiedu-parent               ---父项目
 	
 	-----itmayiedu-zuul-gateway	->Zuul网关模块
 
-springcloud分布式项目整合,集成了mybatisPlus,Redis,zuul网关,ribbon负载均衡,eureka注册中心,fegin服务调用,hystrix服务熔断降级保护,RabbbitMQ,xxL分布式定时任务,LCN分布式事务解决方案,
+springcloud分布式项目整合,集成了mybatisPlus,Redis,zuul网关,ribbon负载均衡,eureka注册中心,fegin服务调用,hystrix服务熔断降级保护,RabbbitMQ,xxL分布式定时任务,LCN分布式事务解决方案,swagger2,springsession分布式session解决方案
