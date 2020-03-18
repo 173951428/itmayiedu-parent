@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-tx-manager/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

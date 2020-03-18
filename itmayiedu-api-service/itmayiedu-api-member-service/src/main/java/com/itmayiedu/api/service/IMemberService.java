@@ -17,4 +17,7 @@ public interface IMemberService {
 
         @RequestMapping("/getUserInfo")
         ResponseBase getUserInfo();
+
+        @RequestMapping("/insertUser")
+        int insertUser(@RequestParam("name") String name,@RequestParam("age") int age);
 }

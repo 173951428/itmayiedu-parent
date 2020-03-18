@@ -31,6 +31,43 @@
                 </Pins>
               </value>
             </entry>
+            <entry>
+              <key>
+                <RunConfigurationRef>
+                  <option name="icon" value="SpringBoot.svg" />
+                  <option name="name" value="AppMember" />
+                </RunConfigurationRef>
+              </key>
+              <value>
+                <Pins>
+                  <option name="pins">
+                    <list>
+                      <Pin>
+                        <option name="consoleUUID" value="a4617d48-91a7-4762-89c0-42ede403c2b6" />
+                        <option name="contentType" value="ConsoleContent" />
+                        <option name="grepModel">
+                          <GrepModel>
+                            <option name="expression" value="2020-03-17 20:58:11.136 ERROR 12636 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter " />
+                            <option name="unlessExpression" value="" />
+                          </GrepModel>
+                        </option>
+                      </Pin>
+                    </list>
+                  </option>
+                </Pins>
+              </value>
+            </entry>
+            <entry>
+              <key>
+                <RunConfigurationRef>
+                  <option name="icon" value="SpringBoot.svg" />
+                  <option name="name" value="AppOrder" />
+                </RunConfigurationRef>
+              </key>
+              <value>
+                <Pins />
+              </value>
+            </entry>
           </map>
         </option>
       </PinnedGrepConsolesState>

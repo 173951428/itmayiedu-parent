@@ -1,5 +1,6 @@
 package com.itmayiedu;
 
+import com.codingapi.txlcn.tc.config.EnableDistributedTransaction;
 import com.spring4all.swagger.EnableSwagger2Doc;
 import io.swagger.annotations.Api;
 import org.springframework.boot.SpringApplication;
@@ -11,6 +12,8 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * @Author zxp
  * @Date 2020/2/24 22:12
  */
+// LCN 客户端注解
+@EnableDistributedTransaction
 @SpringBootApplication
 @EnableFeignClients
 @EnableEurekaClient

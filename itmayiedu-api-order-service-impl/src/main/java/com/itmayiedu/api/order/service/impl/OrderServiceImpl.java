@@ -1,5 +1,8 @@
 package com.itmayiedu.api.order.service.impl;
 
+import com.codingapi.txlcn.tc.annotation.DTXPropagation;
+import com.codingapi.txlcn.tc.annotation.LcnTransaction;
+import com.itmayiedu.api.dao.OrderMapper;
 import com.itmayiedu.api.entity.UserEntity;
 import com.itmayiedu.api.order.feign.MemberServiceFeign;
 import com.itmayiedu.api.service.IOrderService;
@@ -9,6 +12,7 @@ import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -22,6 +26,9 @@ public class OrderServiceImpl extends BaseApiService implements IOrderService {
 
     @Autowired
     private MemberServiceFeign memberServiceFeign;
+
+    @Autowired
+    private OrderMapper orderMapper;
 
     @RequestMapping("/orderToMember")
     public String orderToMember(String name) {
@@ -60,6 +67,8 @@ public class OrderServiceImpl extends BaseApiService implements IOrderService {
         return memberServiceFeign.getUserInfo();
     }
 
+
+
     /**
      *  orderToMemberUserInfoHystrix 方法降级以后调用的方法
      * @return
@@ -87,5 +96,25 @@ public class OrderServiceImpl extends BaseApiService implements IOrderService {
     public  String getOrderBySwagger(String  name){
         System.out.println("name:"+name);
         return  "订单服务userName:"+name;
+    }
+
+    /**
+     * 插入订单数据库
+     * @param id
+     * @param orderName
+     * @return
+     */
+
+    @LcnTransaction(propagation = DTXPropagation.REQUIRED) //发起方分布式事务注解
+    @RequestMapping("/insertOrder")
+    public ResponseBase insertOrder(int id,String orderName) {
+
+        orderMapper.insertOrder(id,orderName);
+        String name="张三";
+        int age=19;
+        memberServiceFeign.insertUser(name,age);
+        // 模拟在插入订单数据库和会员数据库的时候,程序抱异常,如果加入LCN分布式事务,2个数据库会回滚
+        int i=1/0;
+        return setResultSuccess("订单/会员数据库插入成功");
     }
 }

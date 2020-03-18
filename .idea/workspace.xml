@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e168d1-56cc-45c6-8436-4785f90c993c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/GrepConsole.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GrepConsole.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/AppMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/AppMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/fallback/MemberServiceFallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/fallback/MemberServiceFallback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/service/IMemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/service/IMemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/target/classes/com/itmayiedu/api/service/IMemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/target/classes/com/itmayiedu/api/service/IMemberService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/service/IOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/service/IOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/target/classes/com/itmayiedu/api/service/IOrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/target/classes/com/itmayiedu/api/service/IOrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-msg-consumer/target/classes/com/itmayiedu/msg/email/FantoutDeadEmailConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,6 +39,7 @@
     <ignored path="$PROJECT_DIR$/itmayiedu-xxl-jobs/target/" />
     <ignored path="$PROJECT_DIR$/itmayiedy-xxl-admin/target/" />
     <ignored path="$PROJECT_DIR$/itmayiedu-msg-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/itmayiedu-tx-manager/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +64,73 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="56" column="72" selection-start-line="56" selection-start-column="72" selection-end-line="56" selection-end-column="72" />
+              <folding>
+                <element signature="e#1830#1831#0" expanded="true" />
+                <element signature="e#1880#1881#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/mapper/UserEntityMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="107" column="64" selection-start-line="107" selection-start-column="64" selection-end-line="107" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/feign/MemberServiceFeign.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="10" column="86" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/service/IMemberService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+              <folding>
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#843#844#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,7 +141,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>RunDashboard</find>
       <find>itmayiedu-api-member-service</find>
       <find>itmayiedu-api-member-service-impl</find>
       <find>spring-boot-starter-parent</find>
@@ -62,6 +150,11 @@
       <find>fanOutEmailQueue</find>
       <find>fanOutSmsQueue</find>
       <find>org.springframework.amqp.core.Message</find>
+      <find>RunDashboard</find>
+      <find>com.itmayiedu.api.entity</find>
+      <find>orderToMemberUserInfoHystrixFallBlack</find>
+      <find>7970</find>
+      <find>rabbit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -81,29 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/service/MemberServiceFeign.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/feign/IMemberService.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/pom.xml" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/pom.xml" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/service/IMemberService.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-common/src/main/java/com/itmayiedu/base/ResponseBase.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/service/IOrderService.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/feign/MemberServiceFeign.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-eureka-a/pom.xml" />
-        <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/filter/TokenFilter.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/pom.xml" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/AppMember.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/pom.xml" />
-        <option value="$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/AppGatWay.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/XxlJobExecutorApplication.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/config/XxlJobConfig.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/mvc/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/service/jobhandler/SampleXxlJob.java" />
         <option value="$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/resources/application.yml" />
@@ -119,9 +189,7 @@
         <option value="$PROJECT_DIR$/itmayiedy-xxl-admin/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutEamilConsumer.java" />
         <option value="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/AppConsumer.java" />
-        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/controller/ProducerController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/sms/FanoutSmsConsumer.java" />
         <option value="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/httpClientUtil/HttpClientUtils.java" />
@@ -132,6 +200,31 @@
         <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/rabbitmq/FanoutConfig.java" />
         <option value="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutEmailConsumer.java" />
         <option value="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FantoutDeadEmailConsumer.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/service/IMemberService.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/mapper/UserEntityMapper.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/dao/UserEntityMapper.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/Order.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/dao/UserEntityMapper.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/entity/Order.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/service/IOrderService.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/dao/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/mapper/OrderEntityMapper.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-tx-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-tx-manager/src/main/java/com/example/TxManagerApplication.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-tx-manager/src/main/java/com/example/txmanager/TxManagerApplication.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-tx-manager/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/itmayiedu-tx-manager/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/AppMember.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -149,12 +242,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="itmayiedu-api-member-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -172,6 +260,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,16 +269,316 @@
               <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="fallback" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-api-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="txmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-tx-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayiedu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-xxl-jobs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="MyBatisLogPluginindexNum" value="31" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -196,7 +586,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/httpClientUtil" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/itmayiedu-tx-manager/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -206,25 +596,25 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15019158" />
     <property name="project.structure.side.proportion" value="0.46528405" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example" />
+      <recent name="com.itmayiedu.api.dao" />
+      <recent name="com.itmayiedu.api.config" />
       <recent name="com.itmayiedu.msg.sms" />
       <recent name="com.xxl.job.admin" />
-      <recent name="com.xxl.job.admin.controller.resolver" />
-      <recent name="com.xxl.job.admin.controller.annotation" />
-      <recent name="com.xxl.job.executor.core.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\itmayiedu-parent\itmayiedu-tx-manager\src\main\resources" />
+      <recent name="D:\itmayiedu-parent" />
+      <recent name="D:\itmayiedu-parent\itmayiedu-api-order-service-impl\src\main\resources\mapper" />
+      <recent name="D:\itmayiedu-parent\itmayiedu-api-member-service-impl\src\main\resources\mapper" />
       <recent name="D:\itmayiedu-parent\itmayiedu-msg-consumer\src\main\java\com\itmayiedu\msg\httpClientUtil" />
-      <recent name="D:\itmayiedu-parent\itmayiedu-msg-consumer\src\main\resources" />
-      <recent name="D:\itmayiedu-parent\itmayiedy-xxl-admin\src\main\resources" />
-      <recent name="D:\itmayiedu-parent\itmayiedy-xxl-admin\src\main\java\com\xxl\job\admin" />
-      <recent name="D:\itmayiedu-parent\itmayiedy-xxl-admin\src\main\java\com\xxl\job\admin\controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -244,7 +634,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AppConsumer">
+  <component name="RunManager" selected="Spring Boot.TxManagerApplication">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="itmayiedu-api-member-service-impl" />
       <option name="VM_PARAMETERS" />
@@ -363,16 +753,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XxlJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
-      <module name="itmayiedu-xxl-jobs" />
+    <configuration name="TxManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="itmayiedutxmanager" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xxl.job.executor.*" />
+          <option name="PATTERN" value="com.example.txmanager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.txmanager.TxManagerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -383,16 +772,16 @@
       <item itemvalue="Spring Boot.AppGatWay7001" />
       <item itemvalue="Spring Boot.AppMember" />
       <item itemvalue="Spring Boot.AppOrder" />
-      <item itemvalue="Spring Boot.XxlJobApplication" />
       <item itemvalue="Spring Boot.AppConsumer" />
+      <item itemvalue="Spring Boot.TxManagerApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.AppConsumer" />
         <item itemvalue="Spring Boot.AppOrder" />
         <item itemvalue="Spring Boot.AppMember" />
+        <item itemvalue="Spring Boot.TxManagerApplication" />
+        <item itemvalue="Spring Boot.AppConsumer" />
         <item itemvalue="Spring Boot.AppGatWay7001" />
-        <item itemvalue="Spring Boot.XxlJobApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +813,17 @@
       <workItem from="1583637446378" duration="21534000" />
       <workItem from="1583744006401" duration="2177000" />
       <workItem from="1583746252767" duration="10081000" />
-      <workItem from="1583990310180" duration="1010000" />
+      <workItem from="1583990310180" duration="4979000" />
+      <workItem from="1584421008002" duration="2389000" />
+      <workItem from="1584427855180" duration="111000" />
+      <workItem from="1584428866168" duration="285000" />
+      <workItem from="1584437227533" duration="3771000" />
+      <workItem from="1584443120282" duration="901000" />
+      <workItem from="1584444361827" duration="9948000" />
+      <workItem from="1584454373846" duration="970000" />
+      <workItem from="1584455355802" duration="973000" />
+      <workItem from="1584456338645" duration="3773000" />
+      <workItem from="1584493949718" duration="6628000" />
     </task>
     <task id="LOCAL-00001" summary="新增加网关组件">
       <created>1582774361932</created>
@@ -475,16 +874,24 @@
       <option name="project" value="LOCAL" />
       <updated>1583990571361</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="RabbitMQ解决消息幂等性问题">
+      <created>1583991465780</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583991465780</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140279000" />
+    <option name="totallyTimeSpent" value="173997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29104477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31343284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -506,9 +913,9 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32934782" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49733475" weight="0.4078091" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49733475" weight="0.4054348" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32934782" />
-      <window_info anchor="bottom" id="MyBatis Log" order="16" />
+      <window_info anchor="bottom" id="MyBatis Log" order="16" weight="0.32934782" />
       <window_info anchor="bottom" id="Tail" order="17" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
@@ -598,242 +1005,74 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.0.0.RELEASE/spring-cloud-commons-2.0.0.RELEASE.jar!/org/springframework/cloud/client/loadbalancer/AsyncLoadBalancerAutoConfiguration.class">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        <state relative-caret-position="183">
+          <caret line="290" column="1" selection-start-line="290" selection-start-column="1" selection-end-line="290" selection-end-column="1" />
+          <folding>
+            <element signature="e#4154#4158#0" expanded="true" />
+            <element signature="e#4163#4167#0" expanded="true" />
+            <element signature="e#4173#4177#0" expanded="true" />
+            <element signature="e#4183#4187#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.1.RELEASE/spring-boot-actuator-autoconfigure-2.0.1.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/health/HealthIndicatorAutoConfiguration.class">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.1.RELEASE/spring-boot-actuator-autoconfigure-2.0.1.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/health/HealthEndpointConfiguration.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state relative-caret-position="297">
+          <caret line="469" column="16" selection-start-line="469" selection-start-column="16" selection-end-line="469" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jackson/JacksonAutoConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/java/com/itmayiedu/AppGatWay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="36" column="66" lean-forward="true" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+        <state relative-caret-position="546">
+          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/ServletWebServerFactoryAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.0.0.RELEASE/spring-cloud-context-2.0.0.RELEASE.jar!/org/springframework/cloud/autoconfigure/WritableEnvironmentEndpointAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="44" column="55" lean-forward="true" selection-start-line="44" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://SpringLocalModels/module=itmayiedy-xxl-admin">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>SpringLocalModels</ID>
-          <OriginalElement>module=itmayiedy-xxl-admin</OriginalElement>
-          <nodes>
-            <node x="" y="">module=itmayiedy-xxl-admin</node>
-            <node x="" y="">fileset=itmayiedy-xxl-admin/XxlJobAdminApplication</node>
-            <node x="" y="">com.xxl.job.admin.XxlJobAdminApplication</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration.ArchaiusEndpointConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration.JvmMeterBindersConfiguration</node>
-            <node x="" y="">org.springframework.cloud.client.CommonsClientAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.cache.CacheMetricsAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementContextAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.cloudfoundry.servlet.CloudFoundryActuatorAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.system.DiskSpaceHealthIndicatorAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.elasticsearch.ElasticsearchHealthIndicatorAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration.JacksonCodecConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration.EnableTransactionManagementConfiguration.CglibAutoProxyConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.audit.AuditAutoConfiguration.AuditEventRepositoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.audit.AuditEventsEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.health.HealthIndicatorAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration.NamedParameterJdbcTemplateConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.endpoint.EndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.reactive.ReactiveSecurityAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration.LoadBalancerInterceptorConfig</node>
-            <node x="" y="">org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.autoconfigure.RefreshEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.export.simple.SimpleMetricsExportAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration.EurekaClientConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.autoconfigure.LifecycleMvcEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration.StringHttpMessageConverterConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.scheduling.ScheduledTasksEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.freemarker.FreeMarkerAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.client.serviceregistry.ServiceRegistryAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.client.serviceregistry.AutoServiceRegistrationAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.PooledDataSourceConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.endpoint.jmx.JmxEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperBuilderConfiguration</node>
-            <node x="" y="">org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.logging.LoggersEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.web.client.RestTemplateMetricsAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.audit.AuditAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration.EurekaHealthIndicatorConfiguration</node>
-            <node x="" y="">org.springframework.cloud.openfeign.FeignAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.CompositeMeterRegistryAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.health.HealthEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.trace.http.HttpTraceAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration</node>
-            <node x="" y="">org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration.MapperScannerRegistrarNotFoundConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.info.InfoContributorAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration.JdbcTemplateConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.validation.ValidationAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.aop.AopAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.web.servlet.WebMvcMetricsAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration.TomcatWebSocketConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration.MeterBindersConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.ribbon.RibbonAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.web.tomcat.TomcatMetricsAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.client.discovery.simple.SimpleDiscoveryClientAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.management.HeapDumpWebEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.client.discovery.composite.CompositeDiscoveryClientAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter.FaviconConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.eureka.EurekaDiscoveryClientConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.Jackson2ObjectMapperBuilderCustomizerConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration.SameManagementContextConfiguration.EnableSameManagementContextConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration.DispatcherServletRegistrationConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.jdbc.DataSourcePoolMetricsAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration.TransactionTemplateConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration.RefreshableEurekaClientConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration.EnableTransactionManagementConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration.DataSourceTransactionManagerConfiguration</node>
-            <node x="" y="">org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mail.MailSenderAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.hystrix.HystrixAutoConfiguration.HystrixServletAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.trace.http.HttpTraceEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration.SameManagementContextConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.context.properties.ConfigurationPropertiesReportEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration</node>
-            <node x="" y="">com.xxl.job.admin.controller.interceptor.WebMvcConfig</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.redis.RedisHealthIndicatorAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.commons.httpclient.HttpClientConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.context.ShutdownEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.jdbc.DataSourcePoolMetricsAutoConfiguration.HikariDataSourceMetricsConfiguration</node>
-            <node x="" y="">org.springframework.cloud.openfeign.ribbon.FeignRibbonClientAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration.WebEndpointServletAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.openfeign.FeignAutoConfiguration.HystrixFeignTargeterConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.logging.LogFileWebEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.EnableWebMvcConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.eureka.EurekaClientAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.management.ThreadDumpEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.aop.AopAutoConfiguration.CglibAutoProxyConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.metrics.MetricsEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.eureka.EurekaDiscoveryClientConfiguration.EurekaClientConfigurationRefresher</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.info.InfoEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration.ServletWebConfiguration.SpringMvcConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration</node>
-            <node x="" y="">org.mybatis.spring.boot.autoconfigure.MybatisLanguageDriverAutoConfiguration</node>
-            <node x="" y="">com.xxl.job.admin.service.LoginService</node>
-            <node x="" y="">org.springframework.cloud.client.loadbalancer.AsyncLoadBalancerAutoConfiguration.LoadBalancerInterceptorConfig</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration.ServletWebConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.DefaultErrorViewResolverConfiguration</node>
-            <node x="" y="">org.springframework.cloud.client.loadbalancer.AsyncLoadBalancerAutoConfiguration.AsyncRestTemplateCustomizerConfig</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.ribbon.RibbonAutoConfiguration.RibbonClientHttpRequestFactoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.mongo.MongoHealthIndicatorAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.autoconfigure.WritableEnvironmentEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.beans.BeansEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.autoconfigure.RefreshEndpointAutoConfiguration.RefreshEndpointConfiguration</node>
-            <node x="" y="">org.springframework.cloud.client.discovery.noop.NoopDiscoveryClientAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.dao.PersistenceExceptionTranslationAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.env.EnvironmentEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.ParameterNamesModuleConfiguration</node>
-            <node x="" y="">org.springframework.cloud.client.loadbalancer.AsyncLoadBalancerAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.jdbc.DataSourceHealthIndicatorAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration.DispatcherServletConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.WhitelabelErrorViewConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.ribbon.eureka.RibbonEurekaAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.netflix.hystrix.HystrixAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.gson.GsonAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.MultipartAutoConfiguration</node>
-            <node x="" y="">org.springframework.cloud.client.hypermedia.CloudHypermediaAutoConfiguration</node>
-            <node x="" y="">fileset=itmayiedy-xxl-admin/XxlJobAdminApplication Bootstrap</node>
-            <node x="" y="">fileset=itmayiedy-xxl-admin/XxlJobAdminApplication MVC</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.10156982193064668" x="592.0" y="4258.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Show filesets as groups</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedy-xxl-admin/src/main/resources/mybatis-mapper/XxlJobGroupMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/itmayiedy-xxl-admin/src/main/java/com/xxl/job/admin/service/impl/XxlJobServiceImpl.java" />
-    <entry file="file://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.1.1/mybatis-spring-boot-starter-2.1.1.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-312" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedy-xxl-admin/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/itmayiedy-xxl-admin/src/main/java/com/xxl/job/admin/core/trigger/TriggerTypeEnum.java" />
-    <entry file="file://$PROJECT_DIR$/itmayiedy-xxl-admin/src/main/java/com/xxl/job/admin/core/scheduler/XxlJobScheduler.java" />
-    <entry file="file://$PROJECT_DIR$/itmayiedy-xxl-admin/src/main/java/com/xxl/job/admin/core/conf/MybatisConfig.java" />
-    <entry file="file://$PROJECT_DIR$/itmayiedy-xxl-admin/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/itmayiedy-xxl-admin/src/main/java/com/xxl/job/admin/XxlJobAdminApplication.java" />
-    <entry file="file://$PROJECT_DIR$/itmayiedy-xxl-admin/src/main/java/com/xxl/job/admin/dao/XxlJobGroupDao.java" />
-    <entry file="file://$PROJECT_DIR$/itmayiedy-xxl-admin/src/main/java/com/xxl/job/admin/core/conf/XxlJobAdminConfig.java" />
-    <entry file="file://$PROJECT_DIR$/itmayiedu-zuul-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/XxlJobExecutorApplication.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/sms/FanoutSmsConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/config/XxlJobConfig.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/MsgController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="572">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="88" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/rabbitmq/FanoutConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="80" lean-forward="true" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -842,119 +1081,168 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/service/jobhandler/DemoJobHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="286">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/java/com/xxl/job/executor/core/service/jobhandler/SampleXxlJob.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="367">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.jar!/org/springframework/amqp/core/FanoutExchange.class">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/entity/UserEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="286">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="218" selection-start-line="218" selection-end-line="218" />
+        <state relative-caret-position="164">
+          <caret line="208" column="62" lean-forward="true" selection-start-line="208" selection-start-column="62" selection-end-line="208" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/pom.xml">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/producer/FanoutProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/sms/FanoutSmsConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/AppConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state relative-caret-position="332">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/config/MybatisPlusConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="260">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/dao/UserEntityMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2132">
-          <caret line="82" column="44" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
+        <state relative-caret-position="182">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.jar!/org/springframework/amqp/core/AmqpTemplate.class">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/config/MybatisPlusConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="260">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.jar!/org/springframework/amqp/rabbit/listener/adapter/DelegatingInvocableHandler.class">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-common/src/main/java/com/itmayiedu/base/ResponseBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        <state relative-caret-position="182">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.class">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/service/IOrderService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="481" column="30" selection-start-line="481" selection-start-column="16" selection-end-line="481" selection-end-column="30" />
+        <state relative-caret-position="468">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE.jar!/org/springframework/messaging/handler/invocation/InvocableHandlerMethod.class">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-common/src/main/java/com/itmayiedu/base/BaseApiService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/httpClientUtil/HttpClientUtils.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/src/main/java/com/itmayiedu/api/entity/Order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/dao/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/mapper/OrderEntityMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-tx-manager/itmayiedutxmanager.iml" />
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.6.RELEASE/spring-data-redis-2.0.6.RELEASE.jar!/org/springframework/data/redis/core/StringRedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutEmailConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-eureka-a/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutDeadEmailConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -965,89 +1253,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.jar!/org/springframework/amqp/support/AmqpHeaders.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="63" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-xxl-jobs/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/rabbitmq/FanoutConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="20" column="58" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/controller/ProducerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="442">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/producer/FanoutProducer.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-tx-manager/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="37" column="54" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="54" />
+        <state relative-caret-position="452">
+          <caret line="144" column="20" selection-start-line="144" selection-start-column="20" selection-end-line="144" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-tx-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-tx-manager/src/main/java/com/example/txmanager/TxManagerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/MsgController.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="14" selection-start-line="14" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-tx-manager/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/AppMember.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/AppOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/mapper/UserEntityMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/src/main/java/com/itmayiedu/api/service/IMemberService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/feign/MemberServiceFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="10" column="86" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutEmailConsumer.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/service/impl/OrderServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="57" column="49" selection-start-line="54" selection-start-column="9" selection-end-line="57" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="400">
+          <caret line="107" column="64" selection-start-line="107" selection-start-column="64" selection-end-line="107" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itmayiedu-msg-consumer/src/main/java/com/itmayiedu/msg/email/FanoutDeadEmailConsumer.java">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="29" column="57" lean-forward="true" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        <state relative-caret-position="322">
+          <caret line="56" column="72" selection-start-line="56" selection-start-column="72" selection-end-line="56" selection-end-column="72" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1830#1831#0" expanded="true" />
+            <element signature="e#1880#1881#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1061,7 +1385,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.29576194" />
+                <option value="0.46528405" />
               </list>
             </option>
           </splitter-proportions>
@@ -1069,11 +1393,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>Web (itmayiedu-zuul-gateway)|Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.29576194" />
+                <option value="0.46528405" />
               </list>
             </option>
           </splitter-proportions>
@@ -1104,11 +1428,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>itmayiedy-xxl-admin</last-edited>
+          <last-edited>itmayiedu-tx-manager</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.46528405" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

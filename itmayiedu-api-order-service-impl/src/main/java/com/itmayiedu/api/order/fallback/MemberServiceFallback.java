@@ -27,4 +27,9 @@ public class MemberServiceFallback  extends BaseApiService implements MemberServ
     public ResponseBase getUserInfo() {
         return setResultError("服务器忙2,请稍后重试");
     }
+
+    @Override
+    public int insertUser(String name, int age) {
+       return 500;
+    }
 }

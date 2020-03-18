@@ -5,6 +5,13 @@ server:
 spring:
   application:
     name: itmayiedu-api-member-service-impl
+  datasource:
+    url: jdbc:mysql://localhost:3306/itmayiedu-member?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+
 ###服务注册到eureka地址
 eureka:
   client:
@@ -30,3 +37,32 @@ eureka:
 # swagger 扫描包范围
 swagger:
   base-package: com.itmayiedu.api.service.impl
+
+##
+##日志配置
+
+mybatis-plus:
+  configuration:
+    cache-enabled: false
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true
+  global-config:
+    db-column-underline: true
+    field-strategy: 1
+    id-type: 0
+    logic-delete-value: 1
+    logic-not-delete-value: 0
+  mapper-locations: classpath:mapper/*Mapper.xml
+  typeAliasesPackage: com.itmayiedu.api.entity
+
+
+
+
+tx-lcn:
+  client:
+    ##LCN 客户端连接tx-manager 全局事务注册中心
+    manager-address: 127.0.0.1:8070
+  ribbon:
+    loadbalancer:
+      dtx:
+        enabled: true

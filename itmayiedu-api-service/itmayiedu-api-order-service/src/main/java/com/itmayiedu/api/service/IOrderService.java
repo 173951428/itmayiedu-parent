@@ -13,9 +13,18 @@ public interface IOrderService {
       String orderToMember(String name);
 
       // 订单服务接口，调用会员服务接口
-      @RequestMapping("/orderToMemberUserInfo")
-      ResponseBase orderToMemberUserInfo();
+         @RequestMapping("/orderToMemberUserInfo")
+         ResponseBase orderToMemberUserInfo();
 
         @RequestMapping("/orderToMemberUserInfoHystrix")
-       ResponseBase orderToMemberUserInfoHystrix();
+         ResponseBase orderToMemberUserInfoHystrix();
+
+    /**
+     * 插入订单接口
+     * @param id
+     * @param orderName
+     * @return
+     */
+        @RequestMapping("/insertOrder")
+        ResponseBase insertOrder(int id,String orderName);
 }
