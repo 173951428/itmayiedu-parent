@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.itmayiedu.api.dao.UserEntityMapper">
+
+    <select id="getByUsername" resultType="com.itmayiedu.api.entity.UserEntity">
+        select * from sys_user where username=#{username}
+    </select>
+    
+     <select id="selectByEmail" resultType="java.lang.Integer">
+        select count(*) from sys_user where email=#{email}
+    </select>
+
+    <insert id="insertUser">
+        insert  into userentity (name,age) values (#{name},#{age})
+    </insert>
+</mapper>

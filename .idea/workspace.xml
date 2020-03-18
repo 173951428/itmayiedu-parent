@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e168d1-56cc-45c6-8436-4785f90c993c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/AppMember.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/api/config/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/api/dao/UserEntityMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/com/itmayiedu/api/service/impl/MemberServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/mapper/UserEntityMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/META-INF/itmayiedu-api-order-service-impl.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/config/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/dao/OrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/mapper/OrderEntityMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/target/classes/META-INF/itmayiedu-api-order-service.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/target/classes/com/itmayiedu/api/entity/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-msg-consumer/target/classes/META-INF/itmayiedu-msg-consumer.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-msg-consumer/target/classes/com/itmayiedu/msg/email/FanoutDeadEmailConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-tx-manager/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itmayiedu-tx-manager/target/classes/com/example/txmanager/TxManagerApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-member-service-impl/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/fallback/MemberServiceFallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/fallback/MemberServiceFallback.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/api/order/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/target/classes/com/itmayiedu/api/service/IMemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-member-service/target/classes/com/itmayiedu/api/service/IMemberService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/target/classes/com/itmayiedu/api/service/IOrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-service/itmayiedu-api-order-service/target/classes/com/itmayiedu/api/service/IOrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/AppOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu-api-order-service-impl/target/classes/com/itmayiedu/AppOrder.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+              <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
               <folding>
                 <element signature="e#1830#1831#0" expanded="true" />
                 <element signature="e#1880#1881#0" expanded="true" />
@@ -66,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/mapper/UserEntityMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -102,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="608">
-              <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+              <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
               <folding>
                 <element signature="e#531#532#0" expanded="true" />
                 <element signature="e#558#559#0" expanded="true" />
@@ -509,7 +519,7 @@
       <workItem from="1584454373846" duration="970000" />
       <workItem from="1584455355802" duration="973000" />
       <workItem from="1584456338645" duration="3773000" />
-      <workItem from="1584493949718" duration="7620000" />
+      <workItem from="1584493949718" duration="8408000" />
     </task>
     <task id="LOCAL-00001" summary="新增加网关组件">
       <created>1582774361932</created>
@@ -581,16 +591,23 @@
       <option name="project" value="LOCAL" />
       <updated>1584502323246</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="加入LCN分布式事务框架,保证分布式事务完整性">
+      <created>1584502447336</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584502447336</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174989000" />
+    <option name="totallyTimeSpent" value="175777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31343284" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31343284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1040,7 +1057,7 @@
     <entry file="file://$PROJECT_DIR$/itmayiedu-api-order-service-impl/src/main/java/com/itmayiedu/api/order/fallback/MemberServiceFallback.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
-          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
           <folding>
             <element signature="e#531#532#0" expanded="true" />
             <element signature="e#558#559#0" expanded="true" />
@@ -1061,7 +1078,7 @@
     <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/java/com/itmayiedu/api/service/impl/MemberServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
           <folding>
             <element signature="e#1830#1831#0" expanded="true" />
             <element signature="e#1880#1881#0" expanded="true" />
@@ -1072,7 +1089,7 @@
     <entry file="file://$PROJECT_DIR$/itmayiedu-api-member-service-impl/src/main/resources/mapper/UserEntityMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
