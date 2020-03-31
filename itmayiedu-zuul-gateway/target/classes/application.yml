@@ -18,13 +18,22 @@ zuul:
       path: /api-member/**
       ## 会员服务别名, zuul 网关默认整合ribbon 自动实现负载均衡轮询效果
       serviceId: itmayiedu-api-member-service-impl
+      sensitiveHeaders: "*"
     api-b:
       ### 当客户端发送请求127.0.0.1:80//api-order 开头的 都会转发到订单服务
       path: /api-order/**
       serviceId: itmayiedu-api-order-service-impl
+      sensitiveHeaders: "*"
   host:
     socket-timeout-millis: 12000
     connect-timeout-millis: 12000
+  ###  spring-cloud-zuul-ratelimit 开启限流策略,以上配置表示启用限流策略，并且所有服务在3秒内只能有1次请求且所有请求时间总和不得超过2秒
+  ratelimit:
+    enabled: true
+    default-policy:
+      limit: 1
+      quota: 2
+      refresh-interval: 3
 
 hystrix:
   command:
