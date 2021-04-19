@@ -24,5 +24,9 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class AppMember {
     public static void main(String[] args) {
         SpringApplication.run(AppMember.class,args);
+
+        for (String arg : args) {
+            
+        }
     }
 }

@@ -12,5 +12,6 @@
 
     <insert id="insertUser">
         insert  into userentity (name,age) values (#{name},#{age})
+
     </insert>
 </mapper>

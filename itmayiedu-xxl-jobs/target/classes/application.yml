@@ -12,41 +12,41 @@ logging:
 xxl:
   job:
     admin:
-      ### xxl-job admin address list£ºµ÷¶ÈÖÐÐÄ²¿Êð¸úµØÖ·£ºÈçµ÷¶ÈÖÐÐÄ¼¯Èº²¿Êð´æÔÚ¶à¸öµØÖ·ÔòÓÃ¶ººÅ·Ö¸ô¡£Ö´ÐÐÆ÷½«»áÊ¹ÓÃ¸ÃµØÖ·½øÐÐ"Ö´ÐÐÆ÷ÐÄÌø×¢²á"ºÍ"ÈÎÎñ½á¹û»Øµ÷"¡£
+      ### xxl-job admin address listï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½Èºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½Ã¶ï¿½ï¿½Å·Ö¸ï¿½ï¿½ï¿½Ö´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½Ã¸Ãµï¿½Ö·ï¿½ï¿½ï¿½ï¿½"Ö´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×¢ï¿½ï¿½"ï¿½ï¿½"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Øµï¿½"ï¿½ï¿½
       addresses: http://127.0.0.1:7003/xxl-job-admin
     executor:
-      ### xxl-job executor address£ºÖ´ÐÐÆ÷"AppName"ºÍµØÖ·ÐÅÏ¢ÅäÖÃ£ºAppNameÖ´ÐÐÆ÷ÐÄÌø×¢²á·Ö×éÒÀ¾Ý£»µØÖ·ÐÅÏ¢ÓÃÓÚ"µ÷¶ÈÖÐÐÄÇëÇó²¢´¥·¢ÈÎÎñ"ºÍ"Ö´ÐÐÆ÷×¢²á"¡£
-      ### Ö´ÐÐÆ÷Ä¬ÈÏ¶Ë¿ÚÎª9999£¬Ö´ÐÐÆ÷IPÄ¬ÈÏÎª¿Õ±íÊ¾×Ô¶¯»ñÈ¡IP£¬¶àÍø¿¨Ê±¿ÉÊÖ¶¯ÉèÖÃÖ¸¶¨IP£¬ÊÖ¶¯ÉèÖÃIPÊ±½«»á°ó¶¨Host¡£µ¥»ú²¿Êð¶à¸öÖ´ÐÐÆ÷Ê±£¬×¢ÒâÒªÅäÖÃ²»Í¬Ö´ÐÐÆ÷¶Ë¿Ú£»
+      ### xxl-job executor addressï¿½ï¿½Ö´ï¿½ï¿½ï¿½ï¿½"AppName"ï¿½Íµï¿½Ö·ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½Ã£ï¿½AppNameÖ´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý£ï¿½ï¿½ï¿½Ö·ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ï¿½"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ó²¢´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"ï¿½ï¿½"Ö´ï¿½ï¿½ï¿½ï¿½×¢ï¿½ï¿½"ï¿½ï¿½
+      ### Ö´ï¿½ï¿½ï¿½ï¿½Ä¬ï¿½Ï¶Ë¿ï¿½Îª9999ï¿½ï¿½Ö´ï¿½ï¿½ï¿½ï¿½IPÄ¬ï¿½ï¿½Îªï¿½Õ±ï¿½Ê¾ï¿½Ô¶ï¿½ï¿½ï¿½È¡IPï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½Ö¶ï¿½ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½IPï¿½ï¿½ï¿½Ö¶ï¿½ï¿½ï¿½ï¿½ï¿½IPÊ±ï¿½ï¿½ï¿½ï¿½ï¿½Hostï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö´ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½×¢ï¿½ï¿½Òªï¿½ï¿½ï¿½Ã²ï¿½Í¬Ö´ï¿½ï¿½ï¿½ï¿½ï¿½Ë¿Ú£ï¿½
       appName: xxl-job-executor-itmayiedu
-      ###×¢²áÆ÷·þÎñµÄipµØÖ·
+      ###×¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ipï¿½ï¿½Ö·
       ip: 127.0.0.1
-      ####Ö´ÐÐÆ÷µÄ¶Ë¿ÚºÅ
+      ####Ö´ï¿½ï¿½ï¿½ï¿½ï¿½Ä¶Ë¿Úºï¿½
       port: 9999
-      ### xxl-job log path£ºÖ´ÐÐÆ÷ÔËÐÐÈÕÖ¾ÎÄ¼þ´æ´¢µÄ´ÅÅÌÎ»ÖÃ£¬ÐèÒª¶Ô¸ÃÂ·¾¶ÓµÓÐ¶ÁÐ´È¨ÏÞ
+      ### xxl-job log pathï¿½ï¿½Ö´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö¾ï¿½Ä¼ï¿½ï¿½æ´¢ï¿½Ä´ï¿½ï¿½ï¿½Î»ï¿½Ã£ï¿½ï¿½ï¿½Òªï¿½Ô¸ï¿½Â·ï¿½ï¿½Óµï¿½Ð¶ï¿½Ð´È¨ï¿½ï¿½
       logPath: /data/applogs/xxl-job/jobhandler
-      ### xxl-job log retention days£ºÖ´ÐÐÆ÷LogÎÄ¼þ¶¨ÆÚÇåÀí¹¦ÄÜ£¬Ö¸¶¨ÈÕÖ¾±£´æÌìÊý£¬ÈÕÖ¾ÎÄ¼þ¹ýÆÚ×Ô¶¯É¾³ý¡£ÏÞÖÆÖÁÉÙ±£³Ö3Ìì£¬·ñÔò¹¦ÄÜ²»ÉúÐ§£»
+      ### xxl-job log retention daysï¿½ï¿½Ö´ï¿½ï¿½ï¿½ï¿½Logï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü£ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½Ö¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö¾ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¶ï¿½É¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ù±ï¿½ï¿½ï¿½3ï¿½ì£¬ï¿½ï¿½ï¿½ï¿½ï¿½Ü²ï¿½ï¿½ï¿½Ð§ï¿½ï¿½
       logRetentionDays: 30
-    ### xxl-job, access token£ºÖ´ÐÐÆ÷Í¨Ñ¶TOKEN£¬·Ç¿ÕÊ±ÆôÓÃ
+    ### xxl-job, access tokenï¿½ï¿½Ö´ï¿½ï¿½ï¿½ï¿½Í¨Ñ¶TOKENï¿½ï¿½ï¿½Ç¿ï¿½Ê±ï¿½ï¿½ï¿½ï¿½
     accessToken:
 
 
 
-###·þÎñ×¢²áµ½eurekaµØÖ·
+###ï¿½ï¿½ï¿½ï¿½×¢ï¿½áµ½eurekaï¿½ï¿½Ö·
 eureka:
   client:
     service-url:
-      # Ð´ÉÏ2¸ö¼¯Èº·þÎñµØÖ·£¬ÖÐ¼äÓÃ¶ººÅ¸ô¿ª¾ÍÐÐ
+      # Ð´ï¿½ï¿½2ï¿½ï¿½ï¿½ï¿½Èºï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½Ð¼ï¿½ï¿½Ã¶ï¿½ï¿½Å¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
       defaultZone: http://127.0.0.1:8100/eureka
-    ###µ±Ç°»áÔ±·þÎñ×¢²áµ½eureka
+    ###ï¿½ï¿½Ç°ï¿½ï¿½Ô±ï¿½ï¿½ï¿½ï¿½×¢ï¿½áµ½eureka
     register-with-eureka: true
-    ###ÊÇ·ñÐèÒª´ÓeurekaÉÏ»ñÈ¡×¢²áÐÅÏ¢
+    ###ï¿½Ç·ï¿½ï¿½ï¿½Òªï¿½ï¿½eurekaï¿½Ï»ï¿½È¡×¢ï¿½ï¿½ï¿½ï¿½Ï¢
     fetch-registry: true
 
 
-    # ÐÄÌø¼ì²â¼ì²âÓëÐøÔ¼Ê±¼ä
-    # ²âÊÔÊ±½«ÖµÉèÖÃÉèÖÃÐ¡Ð©£¬±£Ö¤·þÎñ¹Ø±Õºó×¢²áÖÐÐÄÄÜ¼°Ê±Ìß³ö·þÎñ
+    # ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¼Ê±ï¿½ï¿½
+    # ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½Öµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡Ð©ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½ï¿½ï¿½Ø±Õºï¿½×¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü¼ï¿½Ê±ï¿½ß³ï¿½ï¿½ï¿½ï¿½ï¿½
     instance:
-      ###Eureka¿Í»§¶ËÏò·þÎñ¶Ë·¢ËÍÐÄÌøµÄÊ±¼ä¼ä¸ô£¬µ¥Î»ÎªÃë£¨¿Í»§¶Ë¸æËß·þÎñ¶Ë×Ô¼º»á°´ÕÕ¸Ã¹æÔò£©
+      ###Eurekaï¿½Í»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î»Îªï¿½ë£¨ï¿½Í»ï¿½ï¿½Ë¸ï¿½ï¿½ß·ï¿½ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½á°´ï¿½Õ¸Ã¹ï¿½ï¿½ï¿½
       lease-renewal-interval-in-seconds: 1
-      ####Eureka·þÎñ¶ËÔÚÊÕµ½×îºóÒ»´ÎÐÄÌøÖ®ºóµÈ´ýµÄÊ±¼äÉÏÏÞ£¬µ¥Î»ÎªÃë£¬³¬¹ýÔòÌÞ³ý£¨¿Í»§¶Ë¸æËß·þÎñ¶Ë°´ÕÕ´Ë¹æÔòµÈ´ý×Ô¼º£©
+      ####Eurekaï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õµï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö®ï¿½ï¿½È´ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½Þ£ï¿½ï¿½ï¿½Î»Îªï¿½ë£¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ³ï¿½ï¿½ï¿½ï¿½Í»ï¿½ï¿½Ë¸ï¿½ï¿½ß·ï¿½ï¿½ï¿½Ë°ï¿½ï¿½Õ´Ë¹ï¿½ï¿½ï¿½È´ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½
       lease-expiration-duration-in-seconds: 2

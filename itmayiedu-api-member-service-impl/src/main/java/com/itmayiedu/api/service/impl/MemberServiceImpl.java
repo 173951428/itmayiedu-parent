@@ -3,7 +3,6 @@ package com.itmayiedu.api.service.impl;
 
 import com.codingapi.txlcn.tc.annotation.DTXPropagation;
 import com.codingapi.txlcn.tc.annotation.LcnTransaction;
-import com.codingapi.txlcn.tc.annotation.TxcTransaction;
 import com.itmayiedu.api.dao.UserEntityMapper;
 import com.itmayiedu.api.entity.UserEntity;
 import com.itmayiedu.api.service.IMemberService;
